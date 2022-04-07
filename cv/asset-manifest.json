@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "../cv/static/css/main.2afebe76.css",
-    "main.js": "../cv/static/js/main.9f0698c7.js",
+    "main.js": "../cv/static/js/main.5da8c448.js",
     "static/js/787.2e0d4c1d.chunk.js": "../cv/static/js/787.2e0d4c1d.chunk.js",
     "static/media/io.jpeg": "../cv/static/media/io.1dcf5fd5af758b2aa63d.jpeg",
     "static/media/v-card-pietro-lubrano.vcf": "../cv/static/media/v-card-pietro-lubrano.3dacbce258c57324c0ff.vcf",
     "index.html": "../cv/index.html",
     "main.2afebe76.css.map": "../cv/static/css/main.2afebe76.css.map",
-    "main.9f0698c7.js.map": "../cv/static/js/main.9f0698c7.js.map",
+    "main.5da8c448.js.map": "../cv/static/js/main.5da8c448.js.map",
     "787.2e0d4c1d.chunk.js.map": "../cv/static/js/787.2e0d4c1d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2afebe76.css",
-    "static/js/main.9f0698c7.js"
+    "static/js/main.5da8c448.js"
   ]
 }

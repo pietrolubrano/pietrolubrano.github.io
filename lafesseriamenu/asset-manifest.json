@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.320ac9b0.css",
+    "main.js": "/static/js/main.ea676e39.js",
+    "static/js/787.9c1844ab.chunk.js": "/static/js/787.9c1844ab.chunk.js",
+    "static/media/adesivi-1-1024x1024.gif": "/static/media/adesivi-1-1024x1024.0d73ee7ab9dc6832c469.gif",
+    "static/media/la-fesseria-head.png": "/static/media/la-fesseria-head.59d45b1ef207498e9d9b.png",
+    "index.html": "/index.html",
+    "main.320ac9b0.css.map": "/static/css/main.320ac9b0.css.map",
+    "main.ea676e39.js.map": "/static/js/main.ea676e39.js.map",
+    "787.9c1844ab.chunk.js.map": "/static/js/787.9c1844ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.320ac9b0.css",
+    "static/js/main.ea676e39.js"
+  ]
+}
